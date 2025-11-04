@@ -9,3 +9,6 @@ You will need the following R libraries to run the code:
 * tidyverse
 * haven
 * rstan
+
+Please cite this work as:
+Bland, James R., Adding parameter heterogeneity to structural models: some guidance for the practitioner (November 04, 2025). Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5703347
