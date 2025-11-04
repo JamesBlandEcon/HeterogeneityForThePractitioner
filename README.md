@@ -1,5 +1,5 @@
 # HeterogeneityForThePractitioner
-Code for "Adding parameter heterogeneity to structural models: some guidance for the practitioner"
+Code for "Adding parameter heterogeneity to structural models: some guidance for the practitioner" by James R. Bland
 
 This repository replicates all estimations in the paper. 
 
