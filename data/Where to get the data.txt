@@ -1,0 +1,5 @@
+Navigate to https://cear.gsu.edu/gwh/
+
+Download the zipped folder "Cumulative Prospect Theory in the Laboratory: A Reconsideration"
+
+From this zipped folder, copy the "GSUdata.dta" file in the "House money" folder into this directory, and rename it "HS2023.dta"
